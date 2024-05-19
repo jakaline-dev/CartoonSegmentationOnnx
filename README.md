@@ -2,7 +2,7 @@
 
 [Original project link](https://github.com/CartoonSegmentation/CartoonSegmentation)
 
-Get the converted onnx models from [Huggingface](https://huggingface.co/Jakaline/CartoonSegmentationOnnx)
+Get the converted onnx models from [Huggingface](https://huggingface.co/Jakaline/CartoonSegmentationOnnx), and add to /models directory.
 
 Jupyter notebook demo included.
 
